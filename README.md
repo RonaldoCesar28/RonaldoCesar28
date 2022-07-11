@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ronaldo Cesar👋
+## Olá! Eu sou o Ronaldo Cesar👋
 
 <div>
 <a href="https://facebook.com/ronaldo.cesar.25" target="_blank"><img
@@ -12,7 +12,7 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
 <div>
   <a href="https://github.com/RonaldoCesar28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que uso no meu dia
