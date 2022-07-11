@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ronaldo Cesar👋
+## Olá! Eu sou Ronaldo Cesar👋
 
 <div>
 <a href="https://facebook.com/ronaldo.cesar.25" target="_blank"><img
@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=faceb
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
 <img align="center" alt"Ronaldo-Csharp" height="60" width"70"
