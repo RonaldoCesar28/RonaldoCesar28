@@ -2,21 +2,43 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
+## Tópicos
+
+* [Estatísticas e Linguagens mais Usadas](Estatísticas-e-linguagens-mais-usadas)
+* [Gráfico de Contribuição](Gráfico-de-Contribuição)
+* [Título e Descrição do Projeto](título-e-descrição-do-projeto)
+* [Status do Projeto](status-do-Projeto)
+* [Funcionalidades](funcionalidades)
+* [Aplicação](aplicação)
+* [Acesso ao Projeto](acesso-ao-projeto)
+* [Tecnologias Utilizadas](tecnologias-utilizadas)
+* [Redes Sociais para Contato](Redes-Sociais-para-Contato)
+
+<h2 align="center">
+Estatísticas e Linguagens mais Usadas
+</h2> 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&count_private=true&hide_border=true&title_color=6b9191&icon_color=6b9191&text_color=c9d1d9&bg_color=0d1117" alt="Ronaldo Cesar github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
 </div>
+
+<h2 align="center">
+Gráfico de Contribuição
+</h2> 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoCesar28&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RonaldoCesar28&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RonaldoCesar28&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=25&margin-h=25" />
 </p>
+
+## Título e Descrição do Projeto
 
 <div align="center">
 <br><p align="center"><br></b></p>
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
 <img align="center" alt"Ronaldo-Html5" height="60" width"70"
@@ -37,7 +59,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
 
-## Contato
+## Redes Sociais para Contato
 
 <div>
 <a href="https://facebook.com/ronaldo.cesar.25" target="_blank"><img
