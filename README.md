@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=180&section=header&text=Ronaldo Cesar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <h1 align="center">
@@ -14,8 +14,8 @@ Estatísticas e Linguagens mais Usadas
 </div>
 
 <div align="center">
-  
-# Frameworks e Linguagens mais Usadas no meu dia a dia
+
+# Ferramentas de Desenvolvimento
 
 <div style="display: inline_block"><br>
 <img align="center" alt"Ronaldo-Html5" height="60" width"70"
