@@ -11,25 +11,9 @@ Estatísticas e Linguagens mais Usadas
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
 </div>
 
-<h1 align="center">
-DSMeta
-</h1>
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoCesar28/RonaldoCesar28/blob/add-license-1/LICENSE)
-
-<h2 align="center">
-Descrição do Projeto
-</h2>
-DSMeta é uma aplicação full stack web e mobile.
-A aplicação consiste em uma pesquisa de vendas, onde se colocam datas para coletar informações e listar todos os vendedores durante um período de data estipulado pelo usuario, após o preenchimento das datas, pode se enviar uma notificação via SMS com relatório total de vendas e em qual mês do ano teve um destaque,
-
-<h2 align="center">
-Aplicação
-</h2>
-
 <div align="center">
 
-## Tecnologias Utilizadas
+## Frameworks e Linguagens mais Usadas no meu dia a dia
 
 <div style="display: inline_block"><br>
 <img align="center" alt"Ronaldo-Html5" height="60" width"70"
