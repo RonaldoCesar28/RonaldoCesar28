@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-## Tópicos
-
-* [Estatísticas e Linguagens mais Usadas](Estatísticas-e-linguagens-mais-usadas)
-* [Gráfico de Contribuição](Gráfico-de-Contribuição)
-* [Título e Descrição do Projeto](título-e-descrição-do-projeto)
-* [Status do Projeto](status-do-Projeto)
-* [Funcionalidades](funcionalidades)
-* [Aplicação](aplicação)
-* [Acesso ao Projeto](acesso-ao-projeto)
-* [Tecnologias Utilizadas](tecnologias-utilizadas)
-* [Redes Sociais para Contato](Redes-Sociais-para-Contato)
-
 <h2 align="center">
 Estatísticas e Linguagens mais Usadas
 </h2> 
@@ -23,20 +11,23 @@ Estatísticas e Linguagens mais Usadas
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
 </div>
 
+<h1 align="center">
+DSMeta
+</h1>
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoCesar28/RonaldoCesar28/blob/add-license-1/LICENSE)
+
 <h2 align="center">
-Gráfico de Contribuição
-</h2> 
+Descrição do Projeto
+</h2>
+DSMeta é uma aplicação full stack web e mobile.
+A aplicação consiste em uma pesquisa de vendas, onde se colocam datas para coletar informações e listar todos os vendedores durante um período de data estipulado pelo usuario, após o preenchimento das datas, pode se enviar uma notificação via SMS com relatório total de vendas e em qual mês do ano teve um destaque,
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoCesar28&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RonaldoCesar28&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=25&margin-h=25" />
-</p>
-
-## Título e Descrição do Projeto
+<h2 align="center">
+Aplicação
+</h2>
 
 <div align="center">
-<br><p align="center"><br></b></p>
 
 ## Tecnologias Utilizadas
 
