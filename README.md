@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<h2 align="center">
+<h1 align="center">
 Estatísticas e Linguagens mais Usadas
-</h2> 
+</h1> 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&count_private=true&hide_border=true&title_color=6b9191&icon_color=6b9191&text_color=c9d1d9&bg_color=0d1117" alt="Ronaldo Cesar github stats" /> 
@@ -13,7 +13,7 @@ Estatísticas e Linguagens mais Usadas
 
 <div align="center">
 
-## Frameworks e Linguagens mais Usadas no meu dia a dia
+# Frameworks e Linguagens mais Usadas no meu dia a dia
 
 <div style="display: inline_block"><br>
 <img align="center" alt"Ronaldo-Html5" height="60" width"70"
@@ -34,7 +34,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
 
-## Redes Sociais para Contato
+# Redes Sociais para Contato
 
 <div>
 <a href="https://facebook.com/ronaldo.cesar.25" target="_blank"><img
