@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=180&section=header&text=Ronaldo Cesar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:;Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -12,6 +12,8 @@ Estatísticas e Linguagens mais Usadas
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&count_private=true&hide_border=true&title_color=6b9191&icon_color=6b9191&text_color=c9d1d9&bg_color=0d1117" alt="Ronaldo Cesar github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoCesar28&theme=gotham&hide_border=true&area=true)
 
 <div align="center">
 
@@ -55,4 +57,5 @@ src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&l
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RonaldoCesar28}/count.svg" /></p> 
 <br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=120&section=footer"/>
