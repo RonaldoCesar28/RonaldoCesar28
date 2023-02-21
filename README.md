@@ -13,7 +13,7 @@ Estatísticas e Linguagens mais Usadas
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoCesar28&theme=gotham&hide_border=true&area=true)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RonaldoCesar&theme=gotham)
 
 <div align="center">
 
