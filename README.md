@@ -8,7 +8,9 @@ Estatísticas e Linguagens mais Usadas
 </h1> 
 </br>
 
-(https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&theme=radical)
+<div align="center">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonaldoCesar28&theme=zenburn"/>
+</div>
 
 <div>
 <a href="https://github.com/RonaldoCesar28">
