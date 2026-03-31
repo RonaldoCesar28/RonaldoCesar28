@@ -4,7 +4,7 @@
 
 <br>
 <h1 align="center">
-Estatísticas e Linguagens mais Usadas
+Estatísticas
 </h1> 
 </br>
 
