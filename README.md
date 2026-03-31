@@ -12,7 +12,10 @@ Estatísticas e Linguagens mais Usadas
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonaldoCesar28&theme=zenburn"/>
 </div>
 
-# Ferramentas de Desenvolvimento
+<h1 align="center">
+Ferramentas de Desenvolvimento
+</h1> 
+</br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
@@ -30,26 +33,10 @@ Estatísticas e Linguagens mais Usadas
   
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt"Ronaldo-Html5" height="60" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<img align="center" alt"Ronaldo-Css3" height="60" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt"Ronaldo-Typescript" height="60" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-<img align="center" alt"Ronaldo-React" height="70" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-<img align="center" alt"Ronaldo-Csharp" height="60" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt"Ronaldo-Java" height="70" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt"Ronaldo-sql" height="70" width"70"
-src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png">
-<img align="center" alt"Ronaldo-Spring" height="100" width"70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-</div>
-
-# Redes Sociais para Contato
+<h1 align="center">
+Redes Sociais para Contato
+</h1> 
+</br>
 
 <div>
 <a href="https://facebook.com/ronaldo.cesar.25" target="_blank"><img
@@ -64,9 +51,5 @@ src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=
 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RonaldoCesar28}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=120&section=footer"/>
