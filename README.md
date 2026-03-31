@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:;Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
-<h1 align="center">
-Estatísticas
-</h1> 
 </br>
 
 <div align="center">
@@ -13,7 +10,7 @@ Estatísticas
 </div>
 
 <h1 align="center">
-Ferramentas de Desenvolvimento
+Estatísticas
 </h1> 
 </br>
 
@@ -29,7 +26,7 @@ Ferramentas de Desenvolvimento
 </div>
 
 <h1 align="center">
-Redes Sociais para Contato
+Ferramentas de Desenvolvimento
 </h1> 
 </br>
 
@@ -46,5 +43,9 @@ src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=
 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
+<h1 align="center">
+Redes Sociais para Contato
+</h1> 
+</br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=120&section=footer"/>
