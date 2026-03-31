@@ -8,6 +8,8 @@ Estatísticas e Linguagens mais Usadas
 </h1> 
 </br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <div align="center">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonaldoCesar28&theme=zenburn"/>
 </div>
