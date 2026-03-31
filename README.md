@@ -8,14 +8,11 @@ Estatísticas e Linguagens mais Usadas
 </h1> 
 </br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&count_private=true&hide_border=true&title_color=6b9191&icon_color=6b9191&text_color=c9d1d9&bg_color=0d1117" alt="Ronaldo Cesar github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&hide_border=true&title_color=6b9191&text_color=6b9191&bg_color=0d1117" />
+<div>
+<a href="https://github.com/RonaldoCesar28">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoCesar28&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoCesar28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RonaldoCesar&theme=gotham)
-
-<div align="center">
 
 # Ferramentas de Desenvolvimento
 
