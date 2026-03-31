@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:;Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC+Brasil;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<br>
+
 <h1 align="center">
 Estatísticas
 </h1> 
-</br>
+
 
 <div align="center">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonaldoCesar28&theme=zenburn"/>
