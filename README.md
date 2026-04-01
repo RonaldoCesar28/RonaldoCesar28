@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9191&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ronaldo+Cesar+Alves+Nogueira;Eu+Moro+em+Joinville+SC;Sou+Formado+em:;Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
-<br>
-</br>
+<br> </br>
+<br> </br>
 
 <h1 align="center">
 Gráfico de Estatística 📈 
